@@ -1,3 +1,5 @@
+"use client";
+
 import dynamic from "next/dynamic";
 import { Header } from "@/components/dashboard/Header";
 import { SectionNav } from "@/components/dashboard/SectionNav";
